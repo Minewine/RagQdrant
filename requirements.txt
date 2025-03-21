@@ -1,0 +1,6 @@
+langchain
+sentence-transformers
+qdrant-client
+python-docx
+tabula-py
+pytesseract
